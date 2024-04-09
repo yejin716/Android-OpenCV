@@ -1,0 +1,4 @@
+<resources>
+    <string name="ocr_result_tip">도서라벨인식을 시작합니다.</string>
+    <string name="app_name">도서위치찾기어플</string>
+</resources>
